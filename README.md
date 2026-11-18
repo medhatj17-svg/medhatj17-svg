@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jana 👋
 
-<!--
-**medhatj17-svg/medhatj17-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student | Machine Learning & Data Science
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning, and building practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills & Technologies
+- Python
+- C Programming
+- Machine Learning
+- Data Analysis
+- Linux & Operating Systems
+- HTML, CSS & JavaScript
+
+### 🚀 Featured Projects
+
+**1. Machine Learning Projects**
+Classification, regression, data preprocessing, and model evaluation using Python and Scikit-learn.
+
+**2. SmartBus – Intelligent Transportation System**
+An AI-powered project for bus passenger counting and driver monitoring.
+
+**3. Linux Process Management**
+Process creation and synchronization using C and Linux, including Parent, Child, and Grandchild processes.
+
+### 🌱 Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Development
+
+### 📫 Let's Connect
+Feel free to explore my repositories and follow my learning journey!
