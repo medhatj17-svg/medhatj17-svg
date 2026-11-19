@@ -22,6 +22,11 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building pra
 
 3. [Linux Process Management](https://github.com/medhatj17-svg/Linux-Process-Management)
    - Process creation and synchronization using C and Linux, including Parent, Child, and Grandchild processes.
+4. [Titanic Survival Prediction](https://github.com/medhatj17-svg/Titanic-Survival-Prediction)
+   - Machine Learning classification project comparing Random Forest and SVM for predicting Titanic passenger survival.
+
+5. [Brain Tumor Classification](https://github.com/medhatj17-svg/Brain-Tumor-Classification)
+   - Deep Learning project for brain tumor classification using Python and PyTorch.
 
 ### 🌱 Currently Learning
 - Artificial Intelligence
